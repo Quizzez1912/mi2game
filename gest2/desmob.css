@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'strongarmregular';
+    src: url('./VerwendeteFonts/Strongarm/Strongarm.otf') format('otf'),
+         url('./VerwendeteFonts/Strongarm/Strongarm.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+body {
+    background-color: #F6F6F6;
+    padding-top: 2%;
+}
+.bild {
+    padding-bottom: 8px;
+    
+  
+}
+
+.all {
+    position: absolute;
+
+}
+
+.bild2 {
+    padding-bottom: 8px;
+    opacity: 0;
+    
+}
+
+.luecke {
+    padding-bottom: 8px;
+    opacity: 0;
+}
+
+.bild3 {
+    padding-bottom: 8px;
+}
+
+.bild4 {
+    padding-bottom: 8px;
+    opacity: 0;
+    
+}
+
+.strongarmregular {
+    font-family: "strongarmregular";
+    font-size: 500%;
+    display: inline-block;
+    padding: 10px;
+}
+
+
+.slogan {
+    position: absolute;
+    
+}
+#typed2 {
+    font-size: 180%;
+}
+

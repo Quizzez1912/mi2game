@@ -1,0 +1,46 @@
+* { box-sizing:border-box; margin:0; padding:0; }
+
+html { height:100%; width:100%; }
+
+
+
+
+body {
+  
+  align-content:center;
+  align-items:space-around;
+  display:grid;
+  justify-items:center;
+  height:100%;
+  width:100%;
+  font-family: AmaticSC;
+}
+
+
+@font-face {
+  font-family: "AmaticSC";
+  
+  src: url('../fonts/Amatic_SC/AmaticSC-Bold.eot') format('embedded-opentype'),
+      url('../fonts/Amatic_SC/AmaticSC-Bold.eot'),
+     url('../fonts/Amatic_SC/AmaticSC-Bold.woff') format('woff'), 
+     url('../fonts/Amatic_SC/AmaticSC-Bold.ttf')  format('truetype'),
+     url('../fonts/Amatic_SC/AmaticSC-Bold') format('svg');
+}
+
+
+@font-face {
+  font-family: ibmFont;
+  src: url(../fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf);
+}
+
+@font-face {
+  font-family: AmaticSC;
+  src: url(../fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf);
+  font-weight: bold;
+}
+
+#stats{
+font-size: 2rem;  
+}
+
+
