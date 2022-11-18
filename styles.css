@@ -1,0 +1,30 @@
+html{
+  background-color: #333
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    color: white;
+    text-decoration: none;
+  }
+  
+  canvas {
+    display : block;   
+    margin : auto;
+    }
+
+  .footer {
+    position: absolute;
+    bottom: 0;
+    
+  }  

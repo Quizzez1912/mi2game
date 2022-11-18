@@ -1,0 +1,35 @@
+{ "frames": {
+   "0": {
+    "frame": { "x": 0, "y": 0, "w": 96, "h": 87 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 87 },
+    "sourceSize": { "w": 96, "h": 87 },
+    "duration": 100
+   },
+   "1": {
+    "frame": { "x": 98, "y": 0, "w": 96, "h": 87 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 87 },
+    "sourceSize": { "w": 96, "h": 87 },
+    "duration": 100
+   },
+   "2": {
+    "frame": { "x": 196, "y": 0, "w": 96, "h": 87 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 87 },
+    "sourceSize": { "w": 96, "h": 87 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.18-x64",
+  "image": "Sprite-onifettjumptot (1).png",
+  "format": "RGBA8888",
+  "size": { "w": 292, "h": 87 },
+  "scale": "1"
+ }
+}
