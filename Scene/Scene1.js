@@ -15,7 +15,7 @@ class Scene1 extends Phaser.Scene {
     // Title
     this.load.image("sushimaster", "assets/pregame/sushimasterLogo.png")
     // PlayButton Spritesheet
-    this.load.spritesheet("playButton", "assets/pregame/playButton.png", {
+    this.load.spritesheet("playButton", "./assets/pregame/playButton.png", {
       frameWidth: 285,
       frameHeight: 134
     });
